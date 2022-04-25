@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="icon">
+        <file alias="home.png">home.png</file>
+        <file alias="statistic.png">statistic.png</file>
+        <file alias="data.png">data.png</file>
+        <file alias="new.png">new.png</file>		
+    </qresource>
+</RCC>
